@@ -1,5 +1,6 @@
 {
   "name": "ajointjsangular",
+  "homepage": "https://derpmagician.github.io/JointJsAngular/",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
